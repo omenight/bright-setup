@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Bright Setup</string>
+
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="skip">Skip</string>
+    <string name="finish">Finish</string>
+    <string name="try_again">Try again</string>
+
+    <string name="remote_title">Connect your remote</string>
+    <string name="remote_subtitle">Hold OK and Volume down together for 3 seconds, until the light on the remote starts blinking.</string>
+    <string name="remote_searching">Looking for the remote…</string>
+    <string name="remote_pairing">Pairing with %1$s…</string>
+    <string name="remote_paired">%1$s is connected</string>
+    <string name="remote_failed">Could not pair %1$s</string>
+    <string name="remote_unavailable">Bluetooth is not available</string>
+    <string name="remote_other">Other devices</string>
+    <string name="remote_hint">Show the hint</string>
+    <string name="remote_none_nearby">Nothing found nearby yet</string>
+
+    <string name="language_title">Choose your language</string>
+    <string name="language_subtitle">You can change it later in the system settings.</string>
+
+    <string name="wifi_title">Connect to the internet</string>
+    <string name="wifi_choose">Pick your Wi-Fi network.</string>
+    <string name="wifi_ethernet">Connected by cable, Wi-Fi is optional.</string>
+    <string name="wifi_connected">Connected to %1$s.</string>
+    <string name="wifi_connected_unnamed">Connected to Wi-Fi.</string>
+    <string name="wifi_connecting">Connecting to %1$s…</string>
+    <string name="wifi_wrong_password">Wrong password for %1$s</string>
+    <string name="wifi_failed">Could not connect to %1$s</string>
+    <string name="wifi_searching">Looking for networks…</string>
+    <string name="wifi_connected_value">Connected</string>
+    <string name="wifi_unsupported">Not supported</string>
+    <string name="wifi_password">Password</string>
+    <string name="wifi_connect">Connect</string>
+    <string name="time_synced">Clock follows Moscow time</string>
+
+    <string name="key_space">space</string>
+</resources>

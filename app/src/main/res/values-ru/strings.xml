@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next">Далее</string>
+    <string name="back">Назад</string>
+    <string name="skip">Пропустить</string>
+    <string name="finish">Готово</string>
+    <string name="try_again">Повторить</string>
+
+    <string name="remote_title">Подключите пульт</string>
+    <string name="remote_subtitle">Зажмите OK и кнопку уменьшения громкости на 3 секунды, пока индикатор на пульте не начнет мигать.</string>
+    <string name="remote_searching">Ищем пульт…</string>
+    <string name="remote_pairing">Подключаем %1$s…</string>
+    <string name="remote_paired">%1$s подключен</string>
+    <string name="remote_failed">Не удалось подключить %1$s</string>
+    <string name="remote_unavailable">Bluetooth недоступен</string>
+    <string name="remote_other">Другие устройства</string>
+    <string name="remote_hint">Показать подсказку</string>
+    <string name="remote_none_nearby">Рядом пока ничего не найдено</string>
+
+    <string name="language_title">Выберите язык</string>
+    <string name="language_subtitle">Его можно сменить позже в системных настройках.</string>
+
+    <string name="wifi_title">Подключитесь к интернету</string>
+    <string name="wifi_choose">Выберите сеть Wi-Fi.</string>
+    <string name="wifi_ethernet">Подключено по кабелю, Wi-Fi можно пропустить.</string>
+    <string name="wifi_connected">Подключено к %1$s.</string>
+    <string name="wifi_connected_unnamed">Подключено к Wi-Fi.</string>
+    <string name="wifi_connecting">Подключаемся к %1$s…</string>
+    <string name="wifi_wrong_password">Неверный пароль от %1$s</string>
+    <string name="wifi_failed">Не удалось подключиться к %1$s</string>
+    <string name="wifi_searching">Ищем сети…</string>
+    <string name="wifi_connected_value">Подключено</string>
+    <string name="wifi_unsupported">Не поддерживается</string>
+    <string name="wifi_password">Пароль</string>
+    <string name="wifi_connect">Подключить</string>
+    <string name="time_synced">Часы идут по московскому времени</string>
+
+    <string name="key_space">пробел</string>
+</resources>
